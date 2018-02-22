@@ -3,4 +3,5 @@ Fight with AI
 *************
 
 BW_01
-BW-02 GDD
+BW_02 Source Tree Connected to GitHub
+BW_03 Setting up the "Repo"
